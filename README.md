@@ -14,16 +14,13 @@ Berikut panduan untuk menjalankan project ini secara lokal
 
 * Clone Repository
     ```sh
-    https://github.com/Shhb0420/RESTful-API-blanja-app-using-ExpressJs
+    https://github.com/dhiyo7/BlanjaWebApps.git
     ```
 * ReactJS
     ```sh
     npm i react
     ```
-* MYSQL
-    ```sh
-    npm i mysql
-    ```
+
 ## Endpoint
 
 * /product/:id
@@ -36,3 +33,6 @@ Berikut panduan untuk menjalankan project ini secara lokal
 * /konfirmasi
 * /reset-password
 * /update
+
+## Repository BackEnd
+* [BlanjaRestFull](https://github.com/dhiyo7/Blanja-RESTful-API)
