@@ -41,11 +41,11 @@ Berikut panduan untuk menjalankan project ini secara lokal
 
 ## Screen Shoot
 
-| Halaman   | Screenshoot                                         | Keterangan                                                     |
-|:---------:|:---------------------------------------------------:|:--------------------------------------------------------------:|
-| Home      | ![](/home/dev7/Downloads/smartmockups_klhb066z.png) | Tampilan awal pada web Blanja                                  |
-| Detail    | ![](/home/dev7/Downloads/smartmockups_klhb1oxu.png) | Tampilan Detail Produk untuk menampilkan data di setiap produk |
-| Keranjang | ![](/home/dev7/Downloads/smartmockups_klhb0szj.png) | Tampilan keranjang pada saat user akan melakukan checkout      |
+| Halaman   | Screenshoot                                                                                                   | Keterangan                                                     |
+|:---------:|:-------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------:|
+| Home      | ![](https://res.cloudinary.com/devloops7/image/upload/v1614159116/newBlanja/smartmockups_klhb066z_ptf5dg.png) | Tampilan awal pada web Blanja                                  |
+| Detail    | ![](https://res.cloudinary.com/devloops7/image/upload/v1614159116/newBlanja/smartmockups_klhb1oxu_ctlqxq.png) | Tampilan Detail Produk untuk menampilkan data di setiap produk |
+| Keranjang | ![](https://res.cloudinary.com/devloops7/image/upload/v1614159116/newBlanja/smartmockups_klhb0szj_dqyso1.png) | Tampilan keranjang pada saat user akan melakukan checkout      |
 
 ## Repository BackEnd
 
